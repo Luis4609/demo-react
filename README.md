@@ -2,6 +2,7 @@
 Repository for the react-apps
 
 - https://es.reactjs.org/community/examples.html
+- https://github.com/PacktPublishing/React-Projects.git
 
 - https://stackblitz.com/edit/react-cttjtr
 
