@@ -16,3 +16,4 @@ Repository for the react-apps
 
 - https://github.com/brillout/awesome-react-components
 - https://github.com/infinitered/reactotron
+- https://www.eduardo-araujo.com/tips/post-256
